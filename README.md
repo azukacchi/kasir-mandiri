@@ -53,8 +53,8 @@ subgraph Program Kasir Mandiri
     C2 -->|3| F[Update item quantity]
     C2 -->|4| G[Update item price]
     C2 -->|5| H[Check order]
-    C2 -->|6| I[Delete item]
-    C2 -->|7| J[Check total transaction]
+    C2 -->|6| I[Check total transaction]
+    C2 -->|7| J[Delete item]
     C2 -->|0| K[Reset transaction]
 end
 ```
