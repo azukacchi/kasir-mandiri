@@ -8,13 +8,13 @@ Dibutuhkan program yang user-friendly sehingga pelanggan dapat menggunakan layan
 
 ## Features
 Dengan "Program Kasir Mandiri", pelanggan dapat melakukan operasi berikut.
-1. Menu untuk menambahkan item
-2. Menu untuk memperbaharui nama item
-3. Menu untuk memperbaharui jumlah item
-4. Menu untuk memperbaharui harga item
-5. Menu untuk mengecek list item yang sudah ditambahkan
-6. Menu untuk menghapus salah satu item yang sudah ditambahkan
-7. Menu untuk menghapus seluruh list item yang sudah ditambahkan
+1. Menambahkan item
+2. Memperbaharui nama item
+3. Memperbaharui jumlah item
+4. Memperbaharui harga item
+5. Mengecek list item yang sudah ditambahkan
+6. Menghapus salah satu item yang sudah ditambahkan
+7. Menghapus seluruh list item yang sudah ditambahkan
 
 
 ### Initialization
