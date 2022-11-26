@@ -271,7 +271,6 @@ end
 
 ### reset_transaction
 Method untuk menghapus semua item dalam list belanjaan.
-graph TD
 ```mermaid
 graph TD
 subgraph reset_transaction method
